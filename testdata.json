@@ -1,0 +1,46 @@
+{
+  "columns": [
+    {
+      "id": "awaiting",
+      "title": "В очереди",
+      "tasks": [
+        {
+          "id": "e78b8773-ad1c-11ed-a228-7c10c9479bb6",
+          "ref": "e1cib/data/Справочник.нЗадачи?ref=a2287c10c9479bb611edad1ce78b8773",
+          "code": "КАЭМП-000000032",
+          "name": "Сервис получения договоров",
+          "deadline": "б/с",
+          "avatarExecutor": "строка base64 / или (лучше) найти другое решение",
+          "nameExecutor": "Пушкин Александр",
+          "sprintColor": "#ffffff",
+          "projectColor": "#1765e8",
+          "position": "1"
+        }
+      ]
+    },
+    {
+      "id": "in-progress",
+      "title": "В работе",
+      "tasks": [
+        {
+          "id": "2aa1ca29-c0cd-11ed-a229-7c10c9479bb6",
+          "ref": "e1cib/data/Справочник.нЗадачи?ref=a2297c10c9479bb611edc0cd2aa1ca29",
+          "code": "DCСОП-000000755",
+          "name": "АРМ KPI сотрудников",
+          "deadline": "б/с",
+          "avatarExecutor": "строка base64 / или (лучше) найти другое решение",
+          "nameExecutor": "Чехов Антон",
+          "sprintColor": "#ffffff",
+          "projectColor": "#a4f4ba",
+          "position": "1"
+        }
+      ]
+    },
+    { "id": "review", "title": "На проверке", "tasks": [] },
+    { "id": "testing", "title": "Тестирование", "tasks": [] },
+    { "id": "application-of-task", "title": "Внедрение", "tasks": [] },
+    { "id": "done", "title": "Выполнены", "tasks": [] }
+  ],
+  "tasks": [],
+  "executors": [{ "name": "Пушкин Александр" }, { "name": "Чехов Антон" }]
+}
