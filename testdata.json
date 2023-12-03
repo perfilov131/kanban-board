@@ -1,6 +1,7 @@
 {
   "columns": [
     {
+      "position": "1",
       "id": "awaiting",
       "title": "В очереди",
       "tasks": [
@@ -10,7 +11,7 @@
           "code": "КАЭМП-000000032",
           "name": "Сервис получения договоров",
           "deadline": "б/с",
-          "avatarExecutor": "строка base64 / или (лучше) найти другое решение",
+          "avatarExecutor": "Адрес картинки",
           "nameExecutor": "Пушкин Александр",
           "sprintColor": "#ffffff",
           "projectColor": "#1765e8",
@@ -19,6 +20,7 @@
       ]
     },
     {
+      "position": "2",
       "id": "in-progress",
       "title": "В работе",
       "tasks": [
@@ -28,7 +30,7 @@
           "code": "DCСОП-000000755",
           "name": "АРМ KPI сотрудников",
           "deadline": "б/с",
-          "avatarExecutor": "строка base64 / или (лучше) найти другое решение",
+          "avatarExecutor": "Адрес картинки",
           "nameExecutor": "Чехов Антон",
           "sprintColor": "#ffffff",
           "projectColor": "#a4f4ba",
@@ -36,10 +38,15 @@
         }
       ]
     },
-    { "id": "review", "title": "На проверке", "tasks": [] },
-    { "id": "testing", "title": "Тестирование", "tasks": [] },
-    { "id": "application-of-task", "title": "Внедрение", "tasks": [] },
-    { "id": "done", "title": "Выполнены", "tasks": [] }
+    { "position": "3", "id": "review", "title": "На проверке", "tasks": [] },
+    { "position": "6", "id": "done", "title": "Выполнены", "tasks": [] },
+    {
+      "position": "5",
+      "id": "application-of-task",
+      "title": "Внедрение",
+      "tasks": []
+    },
+    { "position": "4", "id": "testing", "title": "Тестирование", "tasks": [] }
   ],
   "tasks": [],
   "executors": [{ "name": "Пушкин Александр" }, { "name": "Чехов Антон" }]
