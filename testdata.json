@@ -1,7 +1,7 @@
 {
   "columns": [
     {
-      "position": "1",
+      "position": "2",
       "id": "awaiting",
       "title": "В очереди",
       "tasks": [
@@ -11,7 +11,7 @@
           "code": "КАЭМП-000000032",
           "name": "Сервис получения договоров",
           "deadline": "б/с",
-          "avatarExecutor": "Адрес картинки",
+          "avatarExecutor": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOCAxNC41QzcuMTcxNTcgMTQuNSA2LjUgMTUuMTcxNiA2LjUgMTZWMThDNi41IDE4LjgyODQgNy4xNzE1NyAxOS41IDggMTkuNUgxNkMxNi44Mjg0IDE5LjUgMTcuNSAxOC44Mjg0IDE3LjUgMThWMTZDMTcuNSAxNS4xNzE2IDE2LjgyODQgMTQuNSAxNiAxNC41SDhaTTUuNSAxNkM1LjUgMTQuNjE5MyA2LjYxOTI5IDEzLjUgOCAxMy41SDE2QzE3LjM4MDcgMTMuNSAxOC41IDE0LjYxOTMgMTguNSAxNlYxOEMxOC41IDE5LjM4MDcgMTcuMzgwNyAyMC41IDE2IDIwLjVIOEM2LjYxOTI5IDIwLjUgNS41IDE5LjM4MDcgNS41IDE4VjE2WiIgZmlsbD0iYmxhY2siIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEyIDExQzEzLjY1NjkgMTEgMTUgOS42NTY4NSAxNSA4QzE1IDYuMzQzMTUgMTMuNjU2OSA1IDEyIDVDMTAuMzQzMSA1IDkgNi4zNDMxNSA5IDhDOSA5LjY1Njg1IDEwLjM0MzEgMTEgMTIgMTFaTTEyIDEyQzE0LjIwOTEgMTIgMTYgMTAuMjA5MSAxNiA4QzE2IDUuNzkwODYgMTQuMjA5MSA0IDEyIDRDOS43OTA4NiA0IDggNS43OTA4NiA4IDhDOCAxMC4yMDkxIDkuNzkwODYgMTIgMTIgMTJaIiBmaWxsPSJibGFjayIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+",
           "nameExecutor": "Пушкин Александр",
           "sprintColor": "#ffffff",
           "projectColor": "#1765e8",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "position": "2",
+      "position": "1",
       "id": "in-progress",
       "title": "В работе",
       "tasks": [
@@ -30,7 +30,7 @@
           "code": "DCСОП-000000755",
           "name": "АРМ KPI сотрудников",
           "deadline": "б/с",
-          "avatarExecutor": "Адрес картинки",
+          "avatarExecutor": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgZmlsbD0ibm9uZSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOCAxNC41QzcuMTcxNTcgMTQuNSA2LjUgMTUuMTcxNiA2LjUgMTZWMThDNi41IDE4LjgyODQgNy4xNzE1NyAxOS41IDggMTkuNUgxNkMxNi44Mjg0IDE5LjUgMTcuNSAxOC44Mjg0IDE3LjUgMThWMTZDMTcuNSAxNS4xNzE2IDE2LjgyODQgMTQuNSAxNiAxNC41SDhaTTUuNSAxNkM1LjUgMTQuNjE5MyA2LjYxOTI5IDEzLjUgOCAxMy41SDE2QzE3LjM4MDcgMTMuNSAxOC41IDE0LjYxOTMgMTguNSAxNlYxOEMxOC41IDE5LjM4MDcgMTcuMzgwNyAyMC41IDE2IDIwLjVIOEM2LjYxOTI5IDIwLjUgNS41IDE5LjM4MDcgNS41IDE4VjE2WiIgZmlsbD0iYmxhY2siIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEyIDExQzEzLjY1NjkgMTEgMTUgOS42NTY4NSAxNSA4QzE1IDYuMzQzMTUgMTMuNjU2OSA1IDEyIDVDMTAuMzQzMSA1IDkgNi4zNDMxNSA5IDhDOSA5LjY1Njg1IDEwLjM0MzEgMTEgMTIgMTFaTTEyIDEyQzE0LjIwOTEgMTIgMTYgMTAuMjA5MSAxNiA4QzE2IDUuNzkwODYgMTQuMjA5MSA0IDEyIDRDOS43OTA4NiA0IDggNS43OTA4NiA4IDhDOCAxMC4yMDkxIDkuNzkwODYgMTIgMTIgMTJaIiBmaWxsPSJibGFjayIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+",
           "nameExecutor": "Чехов Антон",
           "sprintColor": "#ffffff",
           "projectColor": "#a4f4ba",
