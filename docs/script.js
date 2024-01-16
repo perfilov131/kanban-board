@@ -47,7 +47,7 @@ function moreInfoTask() {
   return;
 }
 
-/* Обработчики для работы со страницой */
+/* Обработчики для работы со страницей */
 
 function getDataKanban(input) {
   let file = input.files[0];
@@ -372,7 +372,7 @@ window.addEventListener("click", function (e) {
   }
 });
 
-window.addEventListener("scroll", function (e) {
+function scrollProcessing() {
   let vertical_position = 0;
   let columnHeaders_divs = document.getElementsByClassName("column-header");
   vertical_position = this.scrollY;
@@ -393,4 +393,4 @@ window.addEventListener("scroll", function (e) {
     }
     previousYOffset = this.scrollY;
   }
-});
+};
